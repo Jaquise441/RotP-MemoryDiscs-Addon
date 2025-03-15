@@ -1,0 +1,12 @@
+{
+  "item.rotp_mds.memory_disc": "Memory Disc: %1$s",
+  "item.rotp_mds.memory_remover": "Remove Memory",
+  "item.rotp_mds.memory_remover_one_time": "Remove Memory (one-time)",
+  "item.rotp_mds.memory_eject": "Eject Memory",
+  "item.rotp_mds.memory_eject_one_time": "Eject Memory (one-time)",
+  "item.rotp_mds.memory_full_clear": "Clear Memory",
+  "item.rotp_mds.memory_full_clear_one_time": "Clear Memory (one-time)",
+  "item.rotp_mds.empty_memory_disc": "Empty Memory Disc",
+  "item.rotp_mds.empty_memory_disc.tooltip": "Empty",
+  "item.rotp_mds.memory_disc.full_clear.hint": "Completely removes all power data"
+}
